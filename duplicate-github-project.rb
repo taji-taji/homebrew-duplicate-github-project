@@ -8,6 +8,7 @@ class DuplicateGithubProject < Formula
   bottle do
     root_url "https://github.com/taji-taji/DuplicateGithubRepositoryProject/releases/download/0.1.0"
     sha256 cellar: :any_skip_relocation, big_sur: "4fdc7ac28bda9156bf557e359d27d3615cce05722c4ffa695e7d9b66c56a29ba"
+    sha256 cellar: :any_skip_relocation, catalina: "c992be7dbadc157b1f7e56cc12966b76ad3631c1d9ff7c1530e9b7679d5ccc46"
   end
 
   def install
