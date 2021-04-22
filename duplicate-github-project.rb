@@ -1,4 +1,4 @@
-class Duplicategithubrepositoryproject < Formula
+class DuplicateGithubProject < Formula
   desc "This command duplicates a GitHub repository project, including its cards."
   homepage ""
   url "https://github.com/taji-taji/DuplicateGithubRepositoryProject/archive/refs/tags/0.1.0.tar.gz"
